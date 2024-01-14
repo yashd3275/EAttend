@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E Attend</string>
+    <string name="_1">1</string>
+    <string name="absent">Absent</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="present">Present</string>
+</resources>
